@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.4",
-    "tag": "v1.0.4",
-    "asset": "Fabestro.Setup.1.0.4.exe",
-    "sha256": "3ae1ba30aeaab02db142c687cee620630216cee9663d1f533f4a3aa800ca3eba",
-    "notes": "Correctifs: fin de la boucle d'installation des mises a jour, recherche par taille (ex: 2x2), suppression des tirets dans l'interface."
+    "version": "1.0.5",
+    "tag": "v1.0.5",
+    "asset": "Fabestro.Setup.1.0.5.exe",
+    "sha256": "7685184d35ca647ae44c9e53c106703557efa711bc763329ae372ca0a36d2add",
+    "notes": "Vues simplifiees (isometrique + defaut, retour auto en defaut au mouvement) et deplacement vertical libre des briques (monter dans le vide, glisser sous une autre)."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.4",
+    "tag": "v1.0.5",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.4",
+    "tag": "v1.0.5",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Version initiale"
