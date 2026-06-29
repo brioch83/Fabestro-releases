@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.6",
-    "tag": "v1.0.6",
-    "asset": "Fabestro.Setup.1.0.6.exe",
-    "sha256": "34ecfd18a1eb4d9472544fd737da9fa90392d50bc2dbbf11d827f7b92da28dc4",
-    "notes": "Vue isometrique en projection orthographique, taille de grille appliquee via les fleches, et favoris dans le catalogue (etoile en haut a droite des pieces)."
+    "version": "1.0.7",
+    "tag": "v1.0.7",
+    "asset": "Fabestro.Setup.1.0.7.exe",
+    "sha256": "929234a2603ad2a5a4b6a1f30e2c7c74d8dc2dad09bc1ec37e1a3e185e948067",
+    "notes": "Tri du catalogue ameliore: pieces vierges (1x1, 2x2...) en haut par taille, variantes et pieces rares en bas."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.6",
+    "tag": "v1.0.7",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.6",
+    "tag": "v1.0.7",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Version initiale"
