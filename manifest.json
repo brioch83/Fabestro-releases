@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.7",
-    "tag": "v1.0.7",
-    "asset": "Fabestro.Setup.1.0.7.exe",
-    "sha256": "0b168855b6b12b950a3ff04716034634d9969e14390c01c36f19bd186cb120cf",
+    "version": "1.0.8",
+    "tag": "v1.0.8",
+    "asset": "Fabestro.Setup.1.0.8.exe",
+    "sha256": "fce9f17e83672ca426082a334b43c1d6b83633844cb201e8fb89b97c5ce08ef1",
     "notes": "Tri du catalogue ameliore: pieces vierges (1x1, 2x2...) en haut par taille, variantes et pieces rares en bas."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.7",
+    "tag": "v1.0.8",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.7",
+    "tag": "v1.0.8",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Version initiale"
