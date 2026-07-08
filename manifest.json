@@ -1,22 +1,22 @@
 {
   "app": {
-    "version": "1.0.16",
-    "tag": "v1.0.16",
-    "asset": "Fabestro.Setup.1.0.16.exe",
-    "sha256": "f426828c234277d49f9c8ddf029942bdca21df11d0c3cab9d164c19973d60a2b",
-    "notes": "Gizmo 3D repositionne plus haut a droite, plus compact dans l interface, avec branches plus epaisses et lettres agrandies pour une lecture plus nette."
+    "version": "1.0.17",
+    "tag": "v1.0.17",
+    "asset": "Fabestro.Setup.1.0.17.exe",
+    "sha256": "b281fdf7e96183634ee70ebc2378a0c7e547109f14c6ef7050e581725e2ae7cf",
+    "notes": "Selection mode no longer drags bricks, stacked picks now prefer the top brick, and move collisions better preserve stacking when sliding single bricks or grouped selections."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.16",
+    "tag": "v1.0.17",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.16",
+    "tag": "v1.0.17",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
-    "notes": "Version initiale"
+    "notes": "Initial release"
   }
 }
