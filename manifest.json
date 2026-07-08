@@ -3,7 +3,7 @@
     "version": "1.0.7",
     "tag": "v1.0.7",
     "asset": "Fabestro.Setup.1.0.7.exe",
-    "sha256": "929234a2603ad2a5a4b6a1f30e2c7c74d8dc2dad09bc1ec37e1a3e185e948067",
+    "sha256": "0b168855b6b12b950a3ff04716034634d9969e14390c01c36f19bd186cb120cf",
     "notes": "Tri du catalogue ameliore: pieces vierges (1x1, 2x2...) en haut par taille, variantes et pieces rares en bas."
   },
   "ldraw": {
