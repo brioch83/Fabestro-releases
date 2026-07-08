@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.15",
-    "tag": "v1.0.15",
-    "asset": "Fabestro.Setup.1.0.15.exe",
-    "sha256": "7c8293b2cffb17a80ee6d6053e97e0f0104c3f2ccaffbc2dbfb42e3bcaa1a24e",
+    "version": "1.0.16",
+    "tag": "v1.0.16",
+    "asset": "Fabestro.Setup.1.0.16.exe",
+    "sha256": "f426828c234277d49f9c8ddf029942bdca21df11d0c3cab9d164c19973d60a2b",
     "notes": "Gizmo 3D repositionne plus haut a droite, plus compact dans l interface, avec branches plus epaisses et lettres agrandies pour une lecture plus nette."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.15",
+    "tag": "v1.0.16",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.15",
+    "tag": "v1.0.16",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Version initiale"
