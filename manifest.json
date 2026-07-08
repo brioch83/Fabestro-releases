@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.17",
-    "tag": "v1.0.17",
-    "asset": "Fabestro.Setup.1.0.17.exe",
-    "sha256": "b281fdf7e96183634ee70ebc2378a0c7e547109f14c6ef7050e581725e2ae7cf",
-    "notes": "Selection mode no longer drags bricks, stacked picks now prefer the top brick, and move collisions better preserve stacking when sliding single bricks or grouped selections."
+    "version": "1.0.18",
+    "tag": "v1.0.18",
+    "asset": "Fabestro.Setup.1.0.18.exe",
+    "sha256": "7740ddb9b34231de718dc55132d55593ae35cc8064ce0765e118d2fd0c07425d",
+    "notes": "Added Preferences under Edit, introduced a persistent Windowed or Fullscreen setting restored on launch, and moved grid size configuration into the preferences dialog."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.17",
+    "tag": "v1.0.18",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.17",
+    "tag": "v1.0.18",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
