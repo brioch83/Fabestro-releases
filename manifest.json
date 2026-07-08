@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.18",
-    "tag": "v1.0.18",
-    "asset": "Fabestro.Setup.1.0.18.exe",
-    "sha256": "7740ddb9b34231de718dc55132d55593ae35cc8064ce0765e118d2fd0c07425d",
-    "notes": "Added Preferences under Edit, introduced a persistent Windowed or Fullscreen setting restored on launch, and moved grid size configuration into the preferences dialog."
+    "version": "1.0.19",
+    "tag": "v1.0.19",
+    "asset": "Fabestro.Setup.1.0.19.exe",
+    "sha256": "d83fc00576c65835e3e873fcfefc0f58f8e983e9a93196c3e63433a6dfad3cea",
+    "notes": "Removed the unused grid size setting and tightened stacking support so grouped moves and free rotations stop drifting through overlapping bricks as easily."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.18",
+    "tag": "v1.0.19",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.18",
+    "tag": "v1.0.19",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
