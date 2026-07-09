@@ -3,8 +3,8 @@
     "version": "1.0.20",
     "tag": "v1.0.20",
     "asset": "Fabestro.Setup.1.0.20.exe",
-    "sha256": "38a990435267a415fb678013f6fab6600923d9d990521902b707c46d71c6a18d",
-    "notes": "Correction snap system"
+    "sha256": "f5dbd97ac650ca8fa1441af03601a61e608fc087e1d66b477e6451ca66b91583",
+    "notes": "major update"
   },
   "ldraw": {
     "version": "1.0.0",
