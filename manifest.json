@@ -4,7 +4,7 @@
     "tag": "v1.0.20",
     "asset": "Fabestro.Setup.1.0.20.exe",
     "sha256": "38a990435267a415fb678013f6fab6600923d9d990521902b707c46d71c6a18d",
-    "notes": "Improved brick snapping and collision handling so stacked pieces settle onto valid supports without dragging unrelated plates along."
+    "notes": "Correction snap system"
   },
   "ldraw": {
     "version": "1.0.0",
