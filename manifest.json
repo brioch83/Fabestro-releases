@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.23",
-    "tag": "v1.0.23",
-    "asset": "Fabestro.Setup.1.0.23.exe",
-    "sha256": "e4ec2e68cbc8df3b1a6ca450b90b5afb7500321a4082819bff42b49d65c0dc03",
-    "notes": "patch isia"
+    "version": "1.0.24",
+    "tag": "v1.0.24",
+    "asset": "Fabestro.Setup.1.0.24.exe",
+    "sha256": "0ab2fbe4bf0511d0f83fb23f236b673cc8a4c194f7a0a4ba63a9a504cf4b0439",
+    "notes": "Improved category picker, gizmo axis colors, transform picking, and update checks."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.23",
+    "tag": "v1.0.24",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.23",
+    "tag": "v1.0.24",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
