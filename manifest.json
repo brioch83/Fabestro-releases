@@ -3,7 +3,7 @@
     "version": "1.1.4",
     "tag": "v1.1.4",
     "asset": "Fabaesto.Setup.1.1.4.exe",
-    "sha256": "487e28973a5f372335b580495e0a5804b12d0e29b2c6832eeae5ed2aa7268808",
+    "sha256": "29b82ddf668b942e73931f30142b916462543216d72d792b86c4d8d637f15ad1",
     "notes": "fix snap teleport blocking"
   },
   "ldraw": {
