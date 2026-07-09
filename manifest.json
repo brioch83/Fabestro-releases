@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.24",
-    "tag": "v1.0.24",
-    "asset": "Fabestro.Setup.1.0.24.exe",
-    "sha256": "0ab2fbe4bf0511d0f83fb23f236b673cc8a4c194f7a0a4ba63a9a504cf4b0439",
-    "notes": "Improved category picker, gizmo axis colors, transform picking, and update checks."
+    "version": "1.0.25",
+    "tag": "v1.0.25",
+    "asset": "Fabestro.Setup.1.0.25.exe",
+    "sha256": "5c1c51d788f2b77e7d65152b26a613d7f7df498a729bcc9a35e4c6f05702f8a8",
+    "notes": "Use the Fabestro icon across the app, taskbar, favicon, and installer."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.24",
+    "tag": "v1.0.25",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.24",
+    "tag": "v1.0.25",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
