@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.26",
-    "tag": "v1.0.26",
-    "asset": "Fabestro.Setup.1.0.26.exe",
-    "sha256": "0d58d7c642f6808cb32a89dc63eb6c7b56f609b4f52a693e41565902b097cd12",
-    "notes": "Refresh the Fabestro icon and wordmark typography across the app and installer."
+    "version": "1.0.27",
+    "tag": "v1.0.27",
+    "asset": "Fabestro.Setup.1.0.27.exe",
+    "sha256": "fa199e1c622a3bf8e9aa12cae36500bfb561f7b2d96ee7605114d1e2a4560269",
+    "notes": "Improve Fabestro logo quality with multi-size icon assets and a crisp vector wordmark."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.26",
+    "tag": "v1.0.27",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.26",
+    "tag": "v1.0.27",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
