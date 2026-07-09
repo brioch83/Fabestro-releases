@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.27",
-    "tag": "v1.0.27",
-    "asset": "Fabestro.Setup.1.0.27.exe",
-    "sha256": "fa199e1c622a3bf8e9aa12cae36500bfb561f7b2d96ee7605114d1e2a4560269",
-    "notes": "Improve Fabestro logo quality with multi-size icon assets and a crisp vector wordmark."
+    "version": "1.0.28",
+    "tag": "v1.0.28",
+    "asset": "Fabaesto.Setup.1.0.28.exe",
+    "sha256": "a3fb45b3c308c7b52b4e91cf59d57747b2b421f3180c2d6df6550caf5cf59c47",
+    "notes": "Rename the app to Fabaesto and use the 18:53 icon with tuned taskbar assets."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.27",
+    "tag": "v1.0.28",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.27",
+    "tag": "v1.0.28",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
