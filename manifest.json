@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.0.20",
-    "tag": "v1.0.20",
-    "asset": "Fabestro.Setup.1.0.20.exe",
-    "sha256": "f5dbd97ac650ca8fa1441af03601a61e608fc087e1d66b477e6451ca66b91583",
+    "version": "1.0.21",
+    "tag": "v1.0.21",
+    "asset": "Fabestro.Setup.1.0.21.exe",
+    "sha256": "38f3b983a42794016a69f5cbca0c68920133ebe94517467fae93bb270e5b28af",
     "notes": "major update"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.0.20",
+    "tag": "v1.0.21",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.0.20",
+    "tag": "v1.0.21",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
