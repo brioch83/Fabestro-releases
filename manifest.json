@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.15",
-    "tag": "v1.1.15",
-    "asset": "Fabaesto.Setup.1.1.15.exe",
-    "sha256": "055b56bc1946eca3b36ac95050b7b5605f843e0fa6b4d342c24d2becaa9471a0",
-    "notes": "Replaces rebuilt line geometry with a smooth anti-aliased shader grid, removes viewport fog, keeps the grid visible at maximum zoom, and relies on softer scene lighting/background glow."
+    "version": "1.1.16",
+    "tag": "v1.1.16",
+    "asset": "Fabaesto.Setup.1.1.16.exe",
+    "sha256": "2cc98e7561f50d6b9f84e8aa0a727c3d4857bb91e4d9c90948c88729773bfb57",
+    "notes": "Stabilizes the viewport grid at extreme zoom and grazing angles, keeps scene fog disabled, and adds a light-driven dark gradient/ground glow for the viewport atmosphere."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.15",
+    "tag": "v1.1.16",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.15",
+    "tag": "v1.1.16",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
