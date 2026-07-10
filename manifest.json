@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.8",
-    "tag": "v1.1.8",
-    "asset": "Fabaesto.Setup.1.1.8.exe",
-    "sha256": "8fd671cdfea9bd3462fdb94ca0f3171d6cd64d23be17a03eb7bcdb489d1e738d",
-    "notes": "Startup hotfix: the app now shows a visible boot screen, catches renderer startup errors, avoids mounting heavy panels before setup is done, and caps update checks so launch is not blocked by the network."
+    "version": "1.1.9",
+    "tag": "v1.1.9",
+    "asset": "Fabaesto.Setup.1.1.9.exe",
+    "sha256": "76b6d3b93cc5e7bf1263c6c00398b3956fdb3adfdd3ebf80a63466e68e793d33",
+    "notes": "Viewport freeze hotfix: prevents infinite grid calculations when the viewport starts at zero height, ships a bundled parts index so startup no longer scans thousands of files, and keeps thumbnail WebGL fallback lazy until it is actually needed."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.8",
+    "tag": "v1.1.9",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.8",
+    "tag": "v1.1.9",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
