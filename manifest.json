@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.11",
-    "tag": "v1.1.11",
-    "asset": "Fabaesto.Setup.1.1.11.exe",
-    "sha256": "ab9b1a33e694245508b26877257b93d92f034c8cdceceedb8aadc927efe58656",
-    "notes": "Adds resizable Viewport and Parts panels, keeps the panel layout persistent, and reinforces the viewport sizing hotfix so the 3D canvas expands to the available space after startup."
+    "version": "1.1.12",
+    "tag": "v1.1.12",
+    "asset": "Fabaesto.Setup.1.1.12.exe",
+    "sha256": "7b94446a336b5820969ee460d5b19d446d083c22108cfb51473617b9d8132bd8",
+    "notes": "Adds dockable Viewport and Parts panels with top, bottom, left, and right placement, responsive catalogue columns, Window menu panel visibility toggles, depth-correct grid axes, and Preferences controls for viewport background darkness and soft shadows."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.11",
+    "tag": "v1.1.12",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.11",
+    "tag": "v1.1.12",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
