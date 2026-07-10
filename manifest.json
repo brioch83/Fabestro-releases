@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.12",
-    "tag": "v1.1.12",
-    "asset": "Fabaesto.Setup.1.1.12.exe",
-    "sha256": "7b94446a336b5820969ee460d5b19d446d083c22108cfb51473617b9d8132bd8",
-    "notes": "Adds dockable Viewport and Parts panels with top, bottom, left, and right placement, responsive catalogue columns, Window menu panel visibility toggles, depth-correct grid axes, and Preferences controls for viewport background darkness and soft shadows."
+    "version": "1.1.13",
+    "tag": "v1.1.13",
+    "asset": "Fabaesto.Setup.1.1.13.exe",
+    "sha256": "9b0e65f050969b9e5fbe35fceb3b60b9e9ff58e9c9b8fc09e2539e08420dad56",
+    "notes": "Improves viewport lighting with a darker visible floor, smoother directional shadows that remain readable in dark mode, and a cleaner Preferences background slider."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.12",
+    "tag": "v1.1.13",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.12",
+    "tag": "v1.1.13",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
