@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.27",
-    "tag": "v1.1.27",
-    "asset": "Fabaesto.Setup.1.1.27.exe",
-    "sha256": "83f08b69a0cdf22064d42f343d39a2d5e61060da2c4cfd1d13f2123f25a93931",
-    "notes": "Size now changes supported rectangular bricks and plates by selecting real variants: X/Z resize changes the stud footprint, Y resize changes height in plate units, and intermediate heights are represented by stacked plates or brick-plus-plate stacks instead of arbitrary scaling."
+    "version": "1.1.28",
+    "tag": "v1.1.28",
+    "asset": "Fabaesto.Setup.1.1.28.exe",
+    "sha256": "309c39063c3932fe2935111f4944da50bc41b97ae82faef357c9de610fc4d5d7",
+    "notes": "Size now shows a live translucent preview while resizing and preserves the current brick ID when replacing a single piece with another compatible variant. The scene reloads changed variants in place, and Numpad 1/2/3 plus Shift variants now target the corrected X/Y/Z camera faces without top-row number key collisions."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.27",
+    "tag": "v1.1.28",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.27",
+    "tag": "v1.1.28",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
