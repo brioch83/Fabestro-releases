@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.21",
-    "tag": "v1.1.21",
-    "asset": "Fabaesto.Setup.1.1.21.exe",
-    "sha256": "5d35c2691ce3a90d70580b82515b6a453609ba0b45d5dde85b34ec122c584ec7",
-    "notes": "Adds a modern in-app unsaved changes dialog for closing, extends the viewport zoom-out range, and raises the camera far plane so larger visible work areas remain in view."
+    "version": "1.1.22",
+    "tag": "v1.1.22",
+    "asset": "Fabaesto.Setup.1.1.22.exe",
+    "sha256": "069c7cc574a36ca9ac7c4add2bdf676e1edfc61078d7eb48f3ea52437e1e014f",
+    "notes": "Stabilizes cursor-focused zoom at the viewport limits and replaces the close confirmation accent with the dark Fabaesto palette."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.21",
+    "tag": "v1.1.22",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.21",
+    "tag": "v1.1.22",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
