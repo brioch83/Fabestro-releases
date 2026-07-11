@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.22",
-    "tag": "v1.1.22",
-    "asset": "Fabaesto.Setup.1.1.22.exe",
-    "sha256": "069c7cc574a36ca9ac7c4add2bdf676e1edfc61078d7eb48f3ea52437e1e014f",
-    "notes": "Stabilizes cursor-focused zoom at the viewport limits and replaces the close confirmation accent with the dark Fabaesto palette."
+    "version": "1.1.23",
+    "tag": "v1.1.23",
+    "asset": "Fabaesto.Setup.1.1.23.exe",
+    "sha256": "44f665b55efea85b35b68a5c29f950ccd7f7f52ff986515c95d98e5187c4ca55",
+    "notes": "Removes red and green action colors from the close confirmation dialog so save, discard, and cancel actions stay within the black, gray, and white Fabaesto palette."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.22",
+    "tag": "v1.1.23",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.22",
+    "tag": "v1.1.23",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
