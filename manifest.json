@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.25",
-    "tag": "v1.1.25",
-    "asset": "Fabaesto.Setup.1.1.25.exe",
-    "sha256": "2545ad92b88a80f43de9a81c83d9a9ccd7c7213813a723a8fe435606a0e2a6b5",
-    "notes": "Adds a right-click menu in the 3D viewport with Move, Rotate, and Size actions available for the current selection, plus documented Align, Split, and Merge entries. Preferences now list the updated right-click actions."
+    "version": "1.1.26",
+    "tag": "v1.1.26",
+    "asset": "Fabaesto.Setup.1.1.26.exe",
+    "sha256": "d9415c63f970166070d8cb932c4a759fb505431a0b3a5abab95e72a23f2f6d9b",
+    "notes": "Right-click Split now divides supported rectangular bricks and plates into matching 1x1 pieces, Merge rebuilds a compatible rectangular variant from a complete selection, and Align copies the reference angle across the selection. The context menu now shows shortcuts where they exist instead of action descriptions."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.25",
+    "tag": "v1.1.26",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.25",
+    "tag": "v1.1.26",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
