@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.17",
-    "tag": "v1.1.17",
-    "asset": "Fabaesto.Setup.1.1.17.exe",
-    "sha256": "4fd88e1d3316f9754062ca193bdd89e25b1ca76ee26f55fc242b0a7465d7776c",
-    "notes": "Reduces far-grid artifacts at grazing angles, animates newly visible parts while resizing the catalog, keeps soft shadows always enabled, and prompts to save, discard, or cancel when closing with unsaved changes."
+    "version": "1.1.18",
+    "tag": "v1.1.18",
+    "asset": "Fabaesto.Setup.1.1.18.exe",
+    "sha256": "eab45e3a8f1a119297c9061e0de9e25140efd5d3188424a113f6896863d38d08",
+    "notes": "Refines the viewport grid shader so compressed fine lines fade per-pixel before they create moire or glitch-like patterns while zooming or viewing the floor at grazing angles."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.17",
+    "tag": "v1.1.18",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.17",
+    "tag": "v1.1.18",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
