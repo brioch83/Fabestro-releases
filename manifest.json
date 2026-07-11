@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.29",
-    "tag": "v1.1.29",
-    "asset": "Fabaesto.Setup.1.1.29.exe",
-    "sha256": "81f755f08b6ce8edd603391187fb24af1748294d492f6fae002b798bee29b0bd",
-    "notes": "Size now uses deterministic resize rules: horizontal drags extend the stud footprint along a stable axis, vertical drags change height in plate units, and a standard brick reduction produces the equivalent plate. Numpad face views recenter and frame the selected bricks or whole model, and panel docking now uses pointer dragging with a translucent live dock preview."
+    "version": "1.1.30",
+    "tag": "v1.1.30",
+    "asset": "Fabaesto.Setup.1.1.30.exe",
+    "sha256": "6bb223b94412f43d116ad39eeae21d08dacb71ef26f4f05619c07207f8179626",
+    "notes": "Grosse update: shortcut preferences now show only the requested Numpad face views, Size preview/resizing is more direction-aware, move collisions allow escaping existing overlaps while blocking new obstacles, and G surface snapping steps smoothly onto one-plate-high pieces."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.29",
+    "tag": "v1.1.30",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.29",
+    "tag": "v1.1.30",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
