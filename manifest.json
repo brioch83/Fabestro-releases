@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.30",
-    "tag": "v1.1.30",
-    "asset": "Fabaesto.Setup.1.1.30.exe",
-    "sha256": "6bb223b94412f43d116ad39eeae21d08dacb71ef26f4f05619c07207f8179626",
-    "notes": "Grosse update: shortcut preferences now show only the requested Numpad face views, Size preview/resizing is more direction-aware, move collisions allow escaping existing overlaps while blocking new obstacles, and G surface snapping steps smoothly onto one-plate-high pieces."
+    "version": "1.1.31",
+    "tag": "v1.1.31",
+    "asset": "Fabaesto.Setup.1.1.31.exe",
+    "sha256": "a3e831592ee2216a06a46bced2b5b9fe7dbeea27499cc73b6fe508d2373e0a9b",
+    "notes": "Update size et snap: Size uses pointer lock for long left/right drags, inverse Numpad views now require Shift instead of Ctrl, and Move/Gizmo movement gains sticky release plus connector-style stud snapping with 90-degree alignment and Ctrl/Cmd free mode."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.30",
+    "tag": "v1.1.31",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.30",
+    "tag": "v1.1.31",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
