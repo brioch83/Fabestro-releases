@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.39",
-    "tag": "v1.1.39",
-    "asset": "Fabaesto.Setup.1.1.39.exe",
-    "sha256": "6fc8c9dc894ea8fa376f781c13e0a13a592846bfc389995974c26cd741d76a10",
-    "notes": "Fix rotation Connect et ombres: l'outil Connect privilegie maintenant les rotations qui alignent le plus de points stud/socket, le fallback de connexion teste aussi les angles compatibles, et les ombres utilisent une shadow map 4096 avec une camera d'ombre ajustee dynamiquement pour reduire l'effet pixelise."
+    "version": "1.1.40",
+    "tag": "v1.1.40",
+    "asset": "Fabaesto.Setup.1.1.40.exe",
+    "sha256": "e4d94c4807f3b08892b893bf2b06051c788742ba3cd75fc7f55c83935ed8e3cb",
+    "notes": "Fix Connect oriente, ombres et preferences: les notes de release sont nettoyees des balises HTML, les preferences listent a nouveau tous les raccourcis clavier, Connect detecte des ports orientes stud/socket/side avec rotation 3D complete, et les ombres en zoom rapproche utilisent des ombres de contact douces au lieu d'une trame pixellisee."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.39",
+    "tag": "v1.1.40",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.39",
+    "tag": "v1.1.40",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
