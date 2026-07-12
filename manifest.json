@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.31",
-    "tag": "v1.1.31",
-    "asset": "Fabaesto.Setup.1.1.31.exe",
-    "sha256": "a3e831592ee2216a06a46bced2b5b9fe7dbeea27499cc73b6fe508d2373e0a9b",
-    "notes": "Update size et snap: Size uses pointer lock for long left/right drags, inverse Numpad views now require Shift instead of Ctrl, and Move/Gizmo movement gains sticky release plus connector-style stud snapping with 90-degree alignment and Ctrl/Cmd free mode."
+    "version": "1.1.32",
+    "tag": "v1.1.32",
+    "asset": "Fabaesto.Setup.1.1.32.exe",
+    "sha256": "1915ac4e347769b24ee9eb989a6eb5e75288ae526476ed17a909adb9db6aab78",
+    "notes": "Correctif collisions et superposition: moving bricks can no longer stay inside or sink deeper into another brick, while connector snapping is more forgiving so stacking bricks on top of each other is easier."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.31",
+    "tag": "v1.1.32",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.31",
+    "tag": "v1.1.32",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
