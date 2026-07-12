@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.35",
-    "tag": "v1.1.35",
-    "asset": "Fabaesto.Setup.1.1.35.exe",
-    "sha256": "0b0fda69e0394a15df2075c1565947c600b3eede23526765075e602d3f7a97ab",
-    "notes": "marche tjr po :'("
+    "version": "1.1.36",
+    "tag": "v1.1.36",
+    "asset": "Fabaesto.Setup.1.1.36.exe",
+    "sha256": "fcccb71157e896a5c96af4dc9e96c73f7f647c888d6d3e0fff04fb7c537ee24a",
+    "notes": "Fix pince-barre et hauteur plaques: Connect now prioritizes point-to-point connector assembly for clip/bar/hinge/handle/shaft parts and plate support uses body height instead of the full studded bounding box so bricks no longer hover above thin plates."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.35",
+    "tag": "v1.1.36",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.35",
+    "tag": "v1.1.36",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
