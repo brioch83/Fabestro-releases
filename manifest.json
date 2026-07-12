@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.37",
-    "tag": "v1.1.37",
-    "asset": "Fabaesto.Setup.1.1.37.exe",
-    "sha256": "fbf618c7a71fbdf6c65a726e1bb8d470c36b45e3f52df3ccb80a06ef4f728600",
-    "notes": "Fix snapping plaques fines et hitboxes: les baseplates gardent leur vraie hauteur de connexion, le snapping utilise des points stud/socket avec orientation 0/90/180/270, et les collisions suivent mieux les volumes du mesh LDraw au lieu d'une simple empreinte rectangulaire."
+    "version": "1.1.38",
+    "tag": "v1.1.38",
+    "asset": "Fabaesto.Setup.1.1.38.exe",
+    "sha256": "81ae79e5b45ac3ee05d62b813bb1e6c78b9f3254fada6e624e465785bc494f02",
+    "notes": "Fix connexions par selection et collisions: l'outil Connect relie automatiquement deux pieces selectionnees sans dependre du point de clic, recherche les positions stud/socket compatibles avec rotations 0/90/180/270, affine les hitbox depuis la geometrie LDraw, permet la montee laterale sur support valide et masque les axes rouge/vert de la grille au dezoom."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.37",
+    "tag": "v1.1.38",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.37",
+    "tag": "v1.1.38",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
