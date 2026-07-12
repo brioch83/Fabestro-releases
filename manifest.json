@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.33",
-    "tag": "v1.1.33",
-    "asset": "Fabaesto.Setup.1.1.33.exe",
-    "sha256": "878bb3cf55fa0a3d2c809f56197b4653e3e085906707d720130a07e550682d3c",
-    "notes": "Snap, selection rectangle et variantes: fixes 1x1-on-1x1 connector alignment, adds Windows-style rectangle selection in the viewport, and adds a catalogue toggle to show or hide decorated variants such as stickers, prints, and patterns."
+    "version": "1.1.34",
+    "tag": "v1.1.34",
+    "asset": "Fabaesto.Setup.1.1.34.exe",
+    "sha256": "3ddf7033a644f0d5866092b08df532555470acce46f467aff3776f9232c29a90",
+    "notes": "Emboitement, plaques et reglages de fond: adds a Connect tool to click one part then another and place the first on the target with stud-aware alignment, improves plate/top snapping tolerance, keeps solid collision blocking, and fixes the background slider at the leftmost value."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.33",
+    "tag": "v1.1.34",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.33",
+    "tag": "v1.1.34",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
