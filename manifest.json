@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.56",
-    "tag": "v1.1.56",
-    "asset": "Fabaesto.Setup.1.1.56.exe",
-    "sha256": "a720c317b41607376aa7b63de1c8e56807ec4db8716f01a67062703d8f4ed571",
-    "notes": "Corrige les stries de l'arrondi du dessus."
+    "version": "1.1.57",
+    "tag": "v1.1.57",
+    "asset": "Fabaesto.Setup.1.1.57.exe",
+    "sha256": "7ef34414624f25fb4b3d62f17845ef8f84ee6e1259c861a12466d41d15e23629",
+    "notes": "jaaj"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.56",
+    "tag": "v1.1.57",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.56",
+    "tag": "v1.1.57",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
