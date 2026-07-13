@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.44",
-    "tag": "v1.1.44",
-    "asset": "Fabaesto.Setup.1.1.44.exe",
-    "sha256": "e2bc2d1cb9d040283353a2e703e23733a46290be1b7f74b8e58ceae60e5ff607",
-    "notes": "Supprime la marge de collision autour des pieces, corrige Split et Size selon l'orientation locale, aligne la boite d'apercu, conserve le tri du catalogue par taille et active les vues orthographiques du gizmo centrees sur l'origine."
+    "version": "1.1.45",
+    "tag": "v1.1.45",
+    "asset": "Fabaesto.Setup.1.1.45.exe",
+    "sha256": "8097aeaf415a74eabb349dbc0ad7d80d18cca3f0385d2dd2fb59875f34ee0774",
+    "notes": "Decoupe Split en deux morceaux equilibres quand possible, conserve les plus gros formats disponibles sinon, importe les transformations LDraw et les sous-modeles MPD, relit les anciennes sauvegardes Fabaesto et exporte un .ldr standard compatible avec Blender."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.44",
+    "tag": "v1.1.45",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.44",
+    "tag": "v1.1.45",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
