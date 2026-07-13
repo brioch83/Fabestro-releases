@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.51",
-    "tag": "v1.1.51",
-    "asset": "Fabaesto.Setup.1.1.51.exe",
-    "sha256": "f52184ccd0f7b7a3be24313e67ee8866497834adcef9d544bc7b4bdab1aa0f78",
-    "notes": "Arrondi leger sur toutes les aretes."
+    "version": "1.1.52",
+    "tag": "v1.1.52",
+    "asset": "Fabaesto.Setup.1.1.52.exe",
+    "sha256": "07c853226e6c224f70726cb4056bbed3c01517e5f846fefedacf5f30f86ecc30",
+    "notes": "Arrondi visuel discret sur les aretes."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.51",
+    "tag": "v1.1.52",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.51",
+    "tag": "v1.1.52",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
