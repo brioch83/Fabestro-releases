@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.47",
-    "tag": "v1.1.47",
-    "asset": "Fabaesto.Setup.1.1.47.exe",
-    "sha256": "2c35a905962ce749bb71adf5ace60ae12327523624c0f7bb0e046cb466c33ee7",
-    "notes": "Centre precisement la piece sous le pointeur masque pendant G et accelere l'acces direct au bas du catalogue en annulant les chargements hors ecran."
+    "version": "1.1.48",
+    "tag": "v1.1.48",
+    "asset": "Fabaesto.Setup.1.1.48.exe",
+    "sha256": "99fbce8270dd11b1bd4fe452049cbb0f8a8af1f536d5925ec755d5d9df8f5c8f",
+    "notes": "Fluidifie le deplacement rapide sur la grille en traitant la derniere position souris par frame, met en cache les surfaces de support et force un curseur transparent pendant G."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.47",
+    "tag": "v1.1.48",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.47",
+    "tag": "v1.1.48",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
