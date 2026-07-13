@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.48",
-    "tag": "v1.1.48",
-    "asset": "Fabaesto.Setup.1.1.48.exe",
-    "sha256": "99fbce8270dd11b1bd4fe452049cbb0f8a8af1f536d5925ec755d5d9df8f5c8f",
-    "notes": "Fluidifie le deplacement rapide sur la grille en traitant la derniere position souris par frame, met en cache les surfaces de support et force un curseur transparent pendant G."
+    "version": "1.1.49",
+    "tag": "v1.1.49",
+    "asset": "Fabaesto.Setup.1.1.49.exe",
+    "sha256": "56582d32d51c8baecbdf9f22e0f488e91807086d66306eab362513b386c789aa",
+    "notes": "Le mode G deplace maintenant la selection avec la souris en masquant le curseur systeme, les calculs de collision sont plafonnes pour eviter les freezes, et la fermeture affiche un secours si le renderer ne repond pas."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.48",
+    "tag": "v1.1.49",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.48",
+    "tag": "v1.1.49",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
