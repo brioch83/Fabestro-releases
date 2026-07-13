@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.42",
-    "tag": "v1.1.42",
-    "asset": "Fabaesto.Setup.1.1.42.exe",
-    "sha256": "036ea5ee7e52f3e9f1de709acd67d4a1ae70928d196f74efb23705dfea626a0d",
-    "notes": "Restaure l'ancien eclairage sans ombres projetees, ajoute un fondu radial adaptatif sur fond #00070C, corrige la grille et les axes Y/Z, le snap vertical, l'orientation du split, les rotations et collisions de placement, fluidifie le catalogue et simplifie les preferences."
+    "version": "1.1.43",
+    "tag": "v1.1.43",
+    "asset": "Fabaesto.Setup.1.1.43.exe",
+    "sha256": "79102e895204e47f66ca500bd6e34d444bb590f2db4a1d05808eb68e8a8c0f0d",
+    "notes": "Aligne les briques sur la grille, permet de redescendre une brique empilee a cote de son support, ajoute un shader plastique discret sans ombres projetees et trie les pieces du catalogue par taille."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.42",
+    "tag": "v1.1.43",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.42",
+    "tag": "v1.1.43",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
