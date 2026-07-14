@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.2.10",
-    "tag": "v1.2.10",
-    "asset": "Fabaesto.Setup.1.2.10.exe",
-    "sha256": "c6c32faa9a9854a74bc8ed431f1f44b89934ce89043e04965d8e45caeab63bca",
-    "notes": "brioch > isia"
+    "version": "1.2.11",
+    "tag": "v1.2.11",
+    "asset": "Fabaesto.Setup.1.2.11.exe",
+    "sha256": "18eee5042e5b2c5aaf74b849a4eea5ed15479f5e288b1d6cdfdfcd0e057000c3",
+    "notes": "Manipulation libre des flexibles, clipsage fiable et maintien au-dessus de la grille."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.2.10",
+    "tag": "v1.2.11",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.2.10",
+    "tag": "v1.2.11",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
