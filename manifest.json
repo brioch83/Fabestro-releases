@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.67",
-    "tag": "v1.1.67",
-    "asset": "Fabaesto.Setup.1.1.67.exe",
-    "sha256": "2da533afba2d04f6139434024062b3c75c1f2eb0dfcaff26739fd401ed2be6fc",
+    "version": "1.1.68",
+    "tag": "v1.1.68",
+    "asset": "Fabaesto.Setup.1.1.68.exe",
+    "sha256": "18d2c1ccec513767dd9afcb8ac400dea690bdd81f2319c172305f692a0e6a1a5",
     "notes": "thorres la tepu"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.67",
+    "tag": "v1.1.68",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.67",
+    "tag": "v1.1.68",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
