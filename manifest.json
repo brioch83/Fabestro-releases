@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.1.65",
-    "tag": "v1.1.65",
-    "asset": "Fabaesto.Setup.1.1.65.exe",
-    "sha256": "c0f6920e4d2a903508991dd6cbc3c9f6e5676faf7dd403da482bd82b8caabfe6",
-    "notes": "jaaj de fou non ?"
+    "version": "1.1.66",
+    "tag": "v1.1.66",
+    "asset": "Fabaesto.Setup.1.1.66.exe",
+    "sha256": "3298f3aa57068af3e0a78d23ca6505461b697f1b2116050f70298e9fefacb201",
+    "notes": "thorres la tepu"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.1.65",
+    "tag": "v1.1.66",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.1.65",
+    "tag": "v1.1.66",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
