@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.2.12",
-    "tag": "v1.2.12",
-    "asset": "Fabaesto.Setup.1.2.12.exe",
-    "sha256": "a833fe20922ebcc4a7933ef59973e56107f02ad60ac944e65f832e7532be3610",
-    "notes": "Jaaj"
+    "version": "1.2.13",
+    "tag": "v1.2.13",
+    "asset": "Fabaesto.Setup.1.2.13.exe",
+    "sha256": "69284f4013ad0651cbe748400c72c6c903ca621d5c6a1dc152c0cfa4df95896e",
+    "notes": "Correction physique des flexibles: tube rond, accroche plus precise, pliage contraint par la longueur et hitbox collee au flexible."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.2.12",
+    "tag": "v1.2.13",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.2.12",
+    "tag": "v1.2.13",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
