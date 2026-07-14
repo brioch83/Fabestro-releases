@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.2.2",
-    "tag": "v1.2.2",
-    "asset": "Fabaesto.Setup.1.2.2.exe",
-    "sha256": "589727e833ed3f587656cc80ec27fbc3de43ef3567269691defdfaa9bf9a7c86",
+    "version": "1.2.3",
+    "tag": "v1.2.3",
+    "asset": "Fabaesto.Setup.1.2.3.exe",
+    "sha256": "f1c9f0102ec0cb57d3d9aac7d39e379e4a34822b2b4c660b1dbd0d951fd34ece",
     "notes": "brioch > isia"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.2.2",
+    "tag": "v1.2.3",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.2.2",
+    "tag": "v1.2.3",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
