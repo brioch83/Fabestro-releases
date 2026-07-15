@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.2.16",
-    "tag": "v1.2.16",
-    "asset": "Fabaesto.Setup.1.2.16.exe",
-    "sha256": "141395f70a0604d0d82ee8f2045eb0cc37fe01c73ee4638a72dea1ac014c890f",
-    "notes": "Corrige les flexibles: tube lisse pendant le pliage, amortissement des points de controle, tangentes de clips moins agressives et collisions recalculees depuis la courbe lissee."
+    "version": "1.2.17",
+    "tag": "v1.2.17",
+    "asset": "Fabaesto.Setup.1.2.17.exe",
+    "sha256": "a73b81840315543d32adff455cd8cf3c348c6f3fd3ecb5c8fe50efc29039257d",
+    "notes": "jaaj"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.2.16",
+    "tag": "v1.2.17",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.2.16",
+    "tag": "v1.2.17",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
