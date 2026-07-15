@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.2.26",
-    "tag": "v1.2.26",
-    "asset": "Fabaesto.Setup.1.2.26.exe",
-    "sha256": "fa94cd8c926801076eafd7840d6b4136fef306c286d2d5cabcd51a3ba48e0552",
+    "version": "1.2.27",
+    "tag": "v1.2.27",
+    "asset": "Fabaesto.Setup.1.2.27.exe",
+    "sha256": "b0239d0bfe6b88f27aff3b4c31130ac35c5d21126dd125c1217001e6a0cffa5c",
     "notes": "jaaj"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.2.26",
+    "tag": "v1.2.27",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.2.26",
+    "tag": "v1.2.27",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
