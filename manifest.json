@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.2.14",
-    "tag": "v1.2.14",
-    "asset": "Fabaesto.Setup.1.2.14.exe",
-    "sha256": "660215e3c9da16697bb4dbf18fa552d6dc13805bc6feebe5b3a4ddefab411f05",
-    "notes": "Ameliore l'accroche des flexibles: longueur stable, ports fixes sur la forme d'origine, ancrage sur clips et barres, tube polyline sans etirement visuel."
+    "version": "1.2.15",
+    "tag": "v1.2.15",
+    "asset": "Fabaesto.Setup.1.2.15.exe",
+    "sha256": "b6459178f0b70936a08f24936256f9a628d8388bc4e87e7672b7737301cc7941",
+    "notes": "Corrige le catalogue et le snap: libelles decales du curseur, scroll conserve apres recherche, ports orientes pour studs/sockets, connecteurs specifiques pour charnieres, clips, poignees, Technic et bucket, collisions basees sur les tenons reels, ancrages flexibles plus fiables."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.2.14",
+    "tag": "v1.2.15",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.2.14",
+    "tag": "v1.2.15",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
