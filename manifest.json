@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.3.1",
-    "tag": "v1.3.1",
-    "asset": "Fabaesto.Setup.1.3.1.exe",
-    "sha256": "bdf24f9be11f6c01534240e91f10aae4d5219e9d044a915eccd0e6ad1702d922",
+    "version": "1.3.2",
+    "tag": "v1.3.2",
+    "asset": "Fabaesto.Setup.1.3.2.exe",
+    "sha256": "9b45df0ed605e7ff1f8b39525547444b4a88deec585274e9c2fbc172d052753a",
     "notes": "Snap realiste par points d ancrage + Part palette + couleurs"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.3.1",
+    "tag": "v1.3.2",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.3.1",
+    "tag": "v1.3.2",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
