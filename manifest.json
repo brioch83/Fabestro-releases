@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.3.6",
-    "tag": "v1.3.6",
-    "asset": "Fabaesto.Setup.1.3.6.exe",
-    "sha256": "d6e29941465f1573ccf9120aeaa5230108de537e3fc05fc2c99442e49004b501",
-    "notes": "Snap automatique + Connect supprime + clips et pivots corriges"
+    "version": "1.3.7",
+    "tag": "v1.3.7",
+    "asset": "Fabaesto.Setup.1.3.7.exe",
+    "sha256": "dcbe96373dead41985d4ef5a3a3d70d1c5ad8a4394eff6492f556e8174a145f0",
+    "notes": "Flexibles lisses + palette responsive + couleurs disponibles + coins sur grille"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.3.6",
+    "tag": "v1.3.7",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.3.6",
+    "tag": "v1.3.7",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
