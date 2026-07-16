@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.3.3",
-    "tag": "v1.3.3",
-    "asset": "Fabaesto.Setup.1.3.3.exe",
-    "sha256": "2c2a9e8d7cd5f2cbdf97b033d8384c7d74e40f172c1dcd9ca1d5fbb1c117421b",
+    "version": "1.3.4",
+    "tag": "v1.3.4",
+    "asset": "Fabaesto.Setup.1.3.4.exe",
+    "sha256": "2cedb39f5f48711035edff730f10c9efe55af69a74cdfa7bb2c0d9b7a2b39d8f",
     "notes": "Part palette dockee redimensionnable + corrections snap"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.3.3",
+    "tag": "v1.3.4",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.3.3",
+    "tag": "v1.3.4",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
