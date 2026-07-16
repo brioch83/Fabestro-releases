@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.3.8",
-    "tag": "v1.3.8",
-    "asset": "Fabaesto.Setup.1.3.8.exe",
-    "sha256": "61f645f83e20027582b31cb36a5b25dd20406cf1b13a7d77add8deafd55cc61d",
-    "notes": "Independent Part Palette, nested dockable panels and mockup-matched window borders"
+    "version": "1.3.9",
+    "tag": "v1.3.9",
+    "asset": "Fabaesto.Setup.1.3.9.exe",
+    "sha256": "23038139193f40c580a445f2c6a3d539dc02a2ef0870eb947f12a34ad5f22dda",
+    "notes": "Clean panel headers and expandable multi-row Part Palette"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.3.8",
+    "tag": "v1.3.9",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.3.8",
+    "tag": "v1.3.9",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
