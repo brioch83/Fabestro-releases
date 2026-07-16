@@ -3,8 +3,8 @@
     "version": "1.3.7",
     "tag": "v1.3.7",
     "asset": "Fabaesto.Setup.1.3.7.exe",
-    "sha256": "dcbe96373dead41985d4ef5a3a3d70d1c5ad8a4394eff6492f556e8174a145f0",
-    "notes": "Flexibles lisses + palette responsive + couleurs disponibles + coins sur grille"
+    "sha256": "af744aef8af663fc7c8a7ffb23044818b593ce9f3eea889d98a4cfdff5b603f6",
+    "notes": "English catalog, dockable Part Palette, corrected LDraw colors and improved dense-build snapping"
   },
   "ldraw": {
     "version": "1.0.0",
