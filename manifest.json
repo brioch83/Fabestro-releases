@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.3.13",
-    "tag": "v1.3.13",
-    "asset": "Fabaesto.Setup.1.3.13.exe",
-    "sha256": "11c31e5bd91ef0a19da34f6e24067eab624c9fd510bea226d2dec3924e5c181d",
-    "notes": "Stable visible dragging with safer snap and collision fallback"
+    "version": "1.3.14",
+    "tag": "v1.3.14",
+    "asset": "Fabaesto.Setup.1.3.14.exe",
+    "sha256": "3bbf283861ee92067978f318c21bab3e46ef6556d3e12436ae55bd66eb7adc07",
+    "notes": " gros sac"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.3.13",
+    "tag": "v1.3.14",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.0.0",
-    "tag": "v1.3.13",
+    "tag": "v1.3.14",
     "asset": "thumbs-v1.0.0.zip",
     "sha256": "8a279573dac33ac00ce7f5654d40bf8f67af1b5a19b705ba13d45976ce9800ca",
     "notes": "Initial release"
