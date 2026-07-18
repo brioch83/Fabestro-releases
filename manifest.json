@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.4.3",
-    "tag": "v1.4.3",
-    "asset": "Fabaesto.Setup.1.4.3.exe",
-    "sha256": "51e05c8d7fb97087491bac353431e9240005f3db3bf7baa8ec238e0483f1c39b",
-    "notes": "Save overwrites the current file (Ctrl+S); image boxes fit the photo's aspect ratio, can be locked/hidden from a new Scene outliner, and snap gently to the grid"
+    "version": "1.4.4",
+    "tag": "v1.4.4",
+    "asset": "Fabaesto.Setup.1.4.4.exe",
+    "sha256": "d223d13114770d2e6cfe23ffbbbb9af28eebf1e96a05569763dc904507141dd4",
+    "notes": "Image boxes: global lock (click-through), live grid snapping while dragging, and per-face resizing so each face lands exactly. Undo/redo restores your selection. New dark backdrop and glowing placement highlight."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.4.3",
+    "tag": "v1.4.4",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.1.0",
-    "tag": "v1.4.3",
+    "tag": "v1.4.4",
     "asset": "thumbs-v1.1.0.zip",
     "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
     "notes": "Transparent orthographic previews (long bricks now clearly visible)"
