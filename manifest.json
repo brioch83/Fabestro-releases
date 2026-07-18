@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.4.5",
-    "tag": "v1.4.5",
-    "asset": "Fabaesto.Setup.1.4.5.exe",
-    "sha256": "ece9b7cd19c77b881b562ae56494d390911e2c59e4609cbd9502fa695bee21ec",
-    "notes": "Neutral grey backdrop glow (no blue cast)."
+    "version": "1.4.6",
+    "tag": "v1.4.6",
+    "asset": "Fabaesto.Setup.1.4.6.exe",
+    "sha256": "470b90c310d01ec54d1e430261aa23fdf0416ccd74c8886986d9401af2539b83",
+    "notes": "Les axes se connectent maintenant quand on approche leur extrémité d'un trou (connecteurs Technic). Les images sur les faces d'un cube gardent leurs proportions quand on redimensionne le cube."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.4.5",
+    "tag": "v1.4.6",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.1.0",
-    "tag": "v1.4.5",
+    "tag": "v1.4.6",
     "asset": "thumbs-v1.1.0.zip",
     "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
     "notes": "Transparent orthographic previews (long bricks now clearly visible)"
