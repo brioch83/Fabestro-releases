@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.4.8",
-    "tag": "v1.4.8",
-    "asset": "Fabaesto.Setup.1.4.8.exe",
-    "sha256": "c88633d872ddc5e47d0db83469e8015ea8f7662c604d12cd61e31b4c9cd8ae55",
-    "notes": "Le verrouillage des images de référence est maintenant accessible directement depuis le menu de l'outil guide (ligne/boîte) dans les raccourcis à gauche. Suppression de la lueur qui apparaissait au fond de la grille quand on baissait la caméra."
+    "version": "1.4.9",
+    "tag": "v1.4.9",
+    "asset": "Fabaesto.Setup.1.4.9.exe",
+    "sha256": "518811c23be2d6931e295a06123dc3f3e402b92996137e1bd60ac01e4a30e0cc",
+    "notes": "jaaj"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.4.8",
+    "tag": "v1.4.9",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.1.0",
-    "tag": "v1.4.8",
+    "tag": "v1.4.9",
     "asset": "thumbs-v1.1.0.zip",
     "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
     "notes": "Transparent orthographic previews (long bricks now clearly visible)"
