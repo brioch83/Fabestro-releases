@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.4.12",
-    "tag": "v1.4.12",
-    "asset": "Fabaesto.Setup.1.4.12.exe",
-    "sha256": "13afc10e3425afba66d3d519ab29be2ce317ac991d7dfe15042abf6f99f61399",
-    "notes": "Align continues directly after Done and closes articulated connections in two guided steps"
+    "version": "1.5.0",
+    "tag": "v1.5.0",
+    "asset": "Fabaesto.Setup.1.5.0.exe",
+    "sha256": "5d85ce37bd028c7d1ce0fafefee423a8e3aaadf52dddf27440d6f5937a9bb704",
+    "notes": "Nouvelles couleurs, snaps corrigés et diverses petites corrections"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.4.12",
+    "tag": "v1.5.0",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.1.0",
-    "tag": "v1.4.12",
+    "tag": "v1.5.0",
     "asset": "thumbs-v1.1.0.zip",
     "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
     "notes": "Transparent orthographic previews (long bricks now clearly visible)"
