@@ -1,20 +1,20 @@
 {
   "app": {
-    "version": "1.8.0",
-    "tag": "v1.8.0",
-    "asset": "Fabaesto.Setup.1.8.0.exe",
-    "sha256": "f6d37f250e5a6aee2ab8582de8ce4410f83154b9fa7b17ed490051de5607bd54",
-    "notes": "Update globale"
+    "version": "1.8.1",
+    "tag": "v1.8.1",
+    "asset": "Fabaesto.Setup.1.8.1.exe",
+    "sha256": "299a8764f32890199045f44cb5fd5056a435084ecbe44746ad155415dc335822",
+    "notes": "t"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.8.0",
+    "tag": "v1.8.1",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.1.0",
-    "tag": "v1.8.0",
+    "tag": "v1.8.1",
     "asset": "thumbs-v1.1.0.zip",
     "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
     "notes": "Transparent orthographic previews (long bricks now clearly visible)"
