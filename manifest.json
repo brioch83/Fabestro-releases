@@ -1,22 +1,29 @@
 {
   "app": {
-    "version": "1.9.0",
-    "tag": "v1.9.0",
-    "asset": "Fabaesto.Setup.1.9.0.exe",
-    "sha256": "0424c1ce2e51e2353a934cbead532f91d58387d6a0a8898726309273c0d56961",
-    "notes": "Catalogue de pièces sur une seule planche et nuancier en une rampe triée. La touche Resize reste allumée pendant toute la durée du redimensionnement, comme les autres outils. Le halo de sélection s'affine quand on recule la vue. La fenêtre flottante Colors est supprimée : les couleurs restent dans le panneau."
+    "version": "1.10.0",
+    "tag": "v1.10.0",
+    "asset": "Fabaesto.Setup.1.10.0.exe",
+    "sha256": "e907299071680106087fbe050a0476b4fb1267551c529c3d50053c22b8531f9c",
+    "notes": "Pièces précalculées et rendu plastique réaliste : arêtes arrondies, logo moulé sur les tenons, quatre niveaux de détail selon la taille à l'écran et un onglet Qualité dans les Préférences. Translucidité, détails de moulage et variations de couleur. Aimantation dynamique : seuls les connecteurs libres sont proposés, les tenons se posent contre les obstacles, à moitié enfoncés ou sur leur pointe. Nouvelle fenêtre d'enregistrement avant fermeture."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.9.0",
+    "tag": "v1.10.0",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.1.0",
-    "tag": "v1.9.0",
+    "tag": "v1.10.0",
     "asset": "thumbs-v1.1.0.zip",
     "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
     "notes": "Transparent orthographic previews (long bricks now clearly visible)"
+  },
+  "models": {
+    "version": "1.1.0",
+    "tag": "v1.10.0",
+    "asset": "models-v1.1.0.zip",
+    "sha256": "494b3ade241547f551dad94e31bc1f5bc136c014f36b873c606c9539b104232e",
+    "notes": "Catalogue entier recalculé : nouvelle topologie, arêtes arrondies, dessous séparés."
   }
 }
