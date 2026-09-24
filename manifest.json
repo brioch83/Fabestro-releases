@@ -1,27 +1,27 @@
 {
   "app": {
-    "version": "1.10.0",
-    "tag": "v1.10.0",
-    "asset": "Fabaesto.Setup.1.10.0.exe",
-    "sha256": "e907299071680106087fbe050a0476b4fb1267551c529c3d50053c22b8531f9c",
-    "notes": "Pièces précalculées et rendu plastique réaliste : arêtes arrondies, logo moulé sur les tenons, quatre niveaux de détail selon la taille à l'écran et un onglet Qualité dans les Préférences. Translucidité, détails de moulage et variations de couleur. Aimantation dynamique : seuls les connecteurs libres sont proposés, les tenons se posent contre les obstacles, à moitié enfoncés ou sur leur pointe. Nouvelle fenêtre d'enregistrement avant fermeture."
+    "version": "1.10.1",
+    "tag": "v1.10.1",
+    "asset": "Fabaesto.Setup.1.10.1.exe",
+    "sha256": "5b19708bfbbefabe9145ac8f9021815b306308b71e97eb64f3e4b55b61b3baad",
+    "notes": "Correctif de mise à jour : « Télécharger et installer » ne faisait plus rien. L'application se met à jour d'abord, puis télécharge les nouvelles pièces au lancement suivant. Contient toute la 1.10.0 : pièces précalculées, rendu plastique réaliste, aimantation dynamique, nouvelle fenêtre d'enregistrement avant fermeture."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.10.0",
+    "tag": "v1.10.1",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.1.0",
-    "tag": "v1.10.0",
+    "tag": "v1.10.1",
     "asset": "thumbs-v1.1.0.zip",
     "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
     "notes": "Transparent orthographic previews (long bricks now clearly visible)"
   },
-  "models": {
+  "partModels": {
     "version": "1.1.0",
-    "tag": "v1.10.0",
+    "tag": "v1.10.1",
     "asset": "models-v1.1.0.zip",
     "sha256": "494b3ade241547f551dad94e31bc1f5bc136c014f36b873c606c9539b104232e",
     "notes": "Catalogue entier recalculé : nouvelle topologie, arêtes arrondies, dessous séparés."
