@@ -1,27 +1,27 @@
 {
   "app": {
-    "version": "1.10.1",
-    "tag": "v1.10.1",
-    "asset": "Fabaesto.Setup.1.10.1.exe",
-    "sha256": "5b19708bfbbefabe9145ac8f9021815b306308b71e97eb64f3e4b55b61b3baad",
-    "notes": "Correctif de mise à jour : « Télécharger et installer » ne faisait plus rien. L'application se met à jour d'abord, puis télécharge les nouvelles pièces au lancement suivant. Contient toute la 1.10.0 : pièces précalculées, rendu plastique réaliste, aimantation dynamique, nouvelle fenêtre d'enregistrement avant fermeture."
+    "version": "1.10.2",
+    "tag": "v1.10.2",
+    "asset": "Fabaesto.Setup.1.10.2.exe",
+    "sha256": "1550f63a85c747a18e5df3b293d7caebf9f8c787b788059b739d2dd9c4b84238",
+    "notes": "MAJ technique"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.10.1",
+    "tag": "v1.10.2",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
   "thumbs": {
     "version": "1.1.0",
-    "tag": "v1.10.1",
+    "tag": "v1.10.2",
     "asset": "thumbs-v1.1.0.zip",
     "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
     "notes": "Transparent orthographic previews (long bricks now clearly visible)"
   },
   "partModels": {
     "version": "1.1.0",
-    "tag": "v1.10.1",
+    "tag": "v1.10.2",
     "asset": "models-v1.1.0.zip",
     "sha256": "494b3ade241547f551dad94e31bc1f5bc136c014f36b873c606c9539b104232e",
     "notes": "Catalogue entier recalculé : nouvelle topologie, arêtes arrondies, dessous séparés."
