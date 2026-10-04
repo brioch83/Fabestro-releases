@@ -1,29 +1,29 @@
 {
   "app": {
-    "version": "1.10.2",
-    "tag": "v1.10.2",
-    "asset": "Fabaesto.Setup.1.10.2.exe",
-    "sha256": "1550f63a85c747a18e5df3b293d7caebf9f8c787b788059b739d2dd9c4b84238",
-    "notes": "MAJ technique"
+    "version": "1.11.0",
+    "tag": "v1.11.0",
+    "asset": "Fabaesto.Setup.1.11.0.exe",
+    "sha256": "347881310e733307e8f975cb68fe75e375be773a3b28e2b1c18cd989681450d3",
+    "notes": "Thème clair / sombre, catalogue redessiné, pièces 3D recalculées (3 niveaux de détail)."
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.10.2",
+    "tag": "v1.11.0",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06"
   },
-  "thumbs": {
-    "version": "1.1.0",
-    "tag": "v1.10.2",
-    "asset": "thumbs-v1.1.0.zip",
-    "sha256": "ecdc00153a80a2ed649958d448ec7b391469a67df8e2ec00c975fd989a54e350",
-    "notes": "Transparent orthographic previews (long bricks now clearly visible)"
+  "themeThumbs": {
+    "version": "2.0.0",
+    "tag": "v1.11.0",
+    "asset": "thumbs-v2.0.0.zip",
+    "sha256": "b213addfa6cb3134524e264df2639ca863225117863f7e8c10396c74ec31d830",
+    "notes": "Aperçus du catalogue, un jeu par thème (clair et sombre)."
   },
   "partModels": {
-    "version": "1.1.0",
-    "tag": "v1.10.2",
-    "asset": "models-v1.1.0.zip",
-    "sha256": "494b3ade241547f551dad94e31bc1f5bc136c014f36b873c606c9539b104232e",
-    "notes": "Catalogue entier recalculé : nouvelle topologie, arêtes arrondies, dessous séparés."
+    "version": "1.2.0",
+    "tag": "v1.11.0",
+    "asset": "models-v1.2.0.zip",
+    "sha256": "c99cf8598dbf6ed22c6c96b125166a8d6e84d0242f53809434b23a62193c07dd",
+    "notes": "Catalogue recalculé : trois niveaux de détail, plaques de base en pleine qualité, arêtes arrondies plus fines."
   }
 }
