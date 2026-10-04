@@ -4,7 +4,7 @@
     "tag": "v1.11.0",
     "asset": "Fabaesto.Setup.1.11.0.exe",
     "sha256": "347881310e733307e8f975cb68fe75e375be773a3b28e2b1c18cd989681450d3",
-    "notes": "Thème clair / sombre, catalogue redessiné, pièces 3D recalculées (3 niveaux de détail)."
+    "notes": "maj jaaj"
   },
   "ldraw": {
     "version": "1.0.0",
@@ -17,13 +17,13 @@
     "tag": "v1.11.0",
     "asset": "thumbs-v2.0.0.zip",
     "sha256": "b213addfa6cb3134524e264df2639ca863225117863f7e8c10396c74ec31d830",
-    "notes": "Aperçus du catalogue, un jeu par thème (clair et sombre)."
+    "notes": "maj jaaj"
   },
   "partModels": {
     "version": "1.2.0",
     "tag": "v1.11.0",
     "asset": "models-v1.2.0.zip",
     "sha256": "c99cf8598dbf6ed22c6c96b125166a8d6e84d0242f53809434b23a62193c07dd",
-    "notes": "Catalogue recalculé : trois niveaux de détail, plaques de base en pleine qualité, arêtes arrondies plus fines."
+    "notes": "maj jaaj"
   }
 }
