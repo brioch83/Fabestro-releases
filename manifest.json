@@ -1,30 +1,30 @@
 {
   "app": {
-    "version": "1.14.2",
-    "tag": "v1.14.2",
-    "asset": "Fabaesto.Setup.1.14.2.exe",
-    "sha256": "86a889cfc6f4395fd78cff539a75b0d8287bd8b9f35a0abf044389cf6f98d3fe",
-    "notes": "Optimisation"
+    "version": "1.14.3",
+    "tag": "v1.14.3",
+    "asset": "Fabaesto.Setup.1.14.3.exe",
+    "sha256": "a4429754e319c26da82e9a920988e2ffbb54ea553717d710ce499116a4f5b75e",
+    "notes": "MAJ 26/10"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.14.2",
+    "tag": "v1.14.3",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06",
-    "notes": "Optimisation"
+    "notes": "MAJ 26/10"
   },
   "themeThumbs": {
     "version": "2.0.0",
-    "tag": "v1.14.2",
+    "tag": "v1.14.3",
     "asset": "thumbs-v2.0.0.zip",
     "sha256": "b213addfa6cb3134524e264df2639ca863225117863f7e8c10396c74ec31d830",
-    "notes": "Optimisation"
+    "notes": "MAJ 26/10"
   },
   "partModels": {
     "version": "1.2.0",
-    "tag": "v1.14.2",
+    "tag": "v1.14.3",
     "asset": "models-v1.2.0.zip",
     "sha256": "c99cf8598dbf6ed22c6c96b125166a8d6e84d0242f53809434b23a62193c07dd",
-    "notes": "Optimisation"
+    "notes": "MAJ 26/10"
   }
 }
