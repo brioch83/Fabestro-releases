@@ -1,28 +1,28 @@
 {
   "app": {
-    "version": "1.14.9",
-    "tag": "v1.14.9",
-    "asset": "Fabaesto.Setup.1.14.9.exe",
-    "sha256": "41508622e08ac8c5dfb92d957daf7c51f3f0e94426e65248212c16785fdbba70",
-    "notes": "TATA TATI TATOU"
+    "version": "1.14.10",
+    "tag": "v1.14.10",
+    "asset": "Fabaesto.Setup.1.14.10.exe",
+    "sha256": "4de7031084b66c7e811ff0b859f93b65f9d774ba2e65de06005125f4df5934e7",
+    "notes": "Chipi chipi chapa chapa doubi doubi daba daba"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.14.9",
+    "tag": "v1.14.10",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06",
     "notes": "26/10 MAJ"
   },
   "themeThumbs": {
     "version": "2.0.0",
-    "tag": "v1.14.9",
+    "tag": "v1.14.10",
     "asset": "thumbs-v2.0.0.zip",
     "sha256": "b213addfa6cb3134524e264df2639ca863225117863f7e8c10396c74ec31d830",
     "notes": "26/10 MAJ"
   },
   "partModels": {
     "version": "1.4.0",
-    "tag": "v1.14.9",
+    "tag": "v1.14.10",
     "asset": "models-v1.4.0.zip",
     "sha256": "7c5ab5d3fc215599a2deaee9ac0b3f116d4d0c598ddb43e9291950728fb150c6",
     "notes": "TATA TATI TATOU"
