@@ -1,30 +1,30 @@
 {
   "app": {
-    "version": "1.14.11",
-    "tag": "v1.14.11",
-    "asset": "Fabaesto.Setup.1.14.11.exe",
-    "sha256": "57707ac33f8853a97f43ac2f358d811de73d7b2efe8a25a4a55bc412c39a8ff4",
-    "notes": "Maj jaaj"
+    "version": "1.14.12",
+    "tag": "v1.14.12",
+    "asset": "Fabaesto.Setup.1.14.12.exe",
+    "sha256": "f6040ccf0d57a3e621b0008c647278db04bb82ed89d7a083502aa77d7fb606b2",
+    "notes": "MjaaJ"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.14.11",
+    "tag": "v1.14.12",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06",
     "notes": "26/10 MAJ"
   },
   "themeThumbs": {
     "version": "2.1.0",
-    "tag": "v1.14.11",
+    "tag": "v1.14.12",
     "asset": "thumbs-v2.1.0.zip",
     "sha256": "af3f86f84fbc7ac9606fdb04a1b17d28768f801f97ca0d7013bbeb3000b33feb",
     "notes": "Maj jaaj"
   },
   "partModels": {
-    "version": "1.5.0",
-    "tag": "v1.14.11",
-    "asset": "models-v1.5.0.zip",
-    "sha256": "640c8c1b2847c15b856a61d11bad0b9ccd24b021cc1e0782eddf49eecf79ca46",
-    "notes": "Maj jaaj"
+    "version": "1.6.0",
+    "tag": "v1.14.12",
+    "asset": "models-v1.6.0.zip",
+    "sha256": "618117feb603fd3bcd14455d15bc03532de3d395da85655b7aaa5a2c1c7f1159",
+    "notes": "MjaaJ"
   }
 }
