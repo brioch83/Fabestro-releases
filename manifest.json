@@ -1,30 +1,30 @@
 {
   "app": {
-    "version": "1.14.10",
-    "tag": "v1.14.10",
-    "asset": "Fabaesto.Setup.1.14.10.exe",
-    "sha256": "4de7031084b66c7e811ff0b859f93b65f9d774ba2e65de06005125f4df5934e7",
-    "notes": "Chipi chipi chapa chapa doubi doubi daba daba"
+    "version": "1.14.11",
+    "tag": "v1.14.11",
+    "asset": "Fabaesto.Setup.1.14.11.exe",
+    "sha256": "57707ac33f8853a97f43ac2f358d811de73d7b2efe8a25a4a55bc412c39a8ff4",
+    "notes": "Maj jaaj"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.14.10",
+    "tag": "v1.14.11",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06",
     "notes": "26/10 MAJ"
   },
   "themeThumbs": {
-    "version": "2.0.0",
-    "tag": "v1.14.10",
-    "asset": "thumbs-v2.0.0.zip",
-    "sha256": "b213addfa6cb3134524e264df2639ca863225117863f7e8c10396c74ec31d830",
-    "notes": "26/10 MAJ"
+    "version": "2.1.0",
+    "tag": "v1.14.11",
+    "asset": "thumbs-v2.1.0.zip",
+    "sha256": "af3f86f84fbc7ac9606fdb04a1b17d28768f801f97ca0d7013bbeb3000b33feb",
+    "notes": "Maj jaaj"
   },
   "partModels": {
-    "version": "1.4.0",
-    "tag": "v1.14.10",
-    "asset": "models-v1.4.0.zip",
-    "sha256": "7c5ab5d3fc215599a2deaee9ac0b3f116d4d0c598ddb43e9291950728fb150c6",
-    "notes": "TATA TATI TATOU"
+    "version": "1.5.0",
+    "tag": "v1.14.11",
+    "asset": "models-v1.5.0.zip",
+    "sha256": "640c8c1b2847c15b856a61d11bad0b9ccd24b021cc1e0782eddf49eecf79ca46",
+    "notes": "Maj jaaj"
   }
 }
