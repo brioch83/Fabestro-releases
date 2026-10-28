@@ -1,30 +1,30 @@
 {
   "app": {
-    "version": "1.14.20",
-    "tag": "v1.14.20",
-    "asset": "Fabaesto.Setup.1.14.20.exe",
-    "sha256": "85a19803c7c362f0159a4ca15232a5e2b05215134f08e588e038e5e46cf9a0c2",
-    "notes": "Oh pinaise."
+    "version": "1.14.21",
+    "tag": "v1.14.21",
+    "asset": "Fabaesto.Setup.1.14.21.exe",
+    "sha256": "5260cb2105d15a99d0aa03d111221888d0b3f898595eb9ea7a07dff822b0083d",
+    "notes": "JA"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.14.20",
+    "tag": "v1.14.21",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06",
     "notes": "26/10 MAJ"
   },
   "themeThumbs": {
     "version": "2.1.0",
-    "tag": "v1.14.20",
+    "tag": "v1.14.21",
     "asset": "thumbs-v2.1.0.zip",
     "sha256": "af3f86f84fbc7ac9606fdb04a1b17d28768f801f97ca0d7013bbeb3000b33feb",
     "notes": "Maj jaaj"
   },
   "partModels": {
-    "version": "1.8.0",
-    "tag": "v1.14.20",
-    "asset": "models-v1.8.0.zip",
-    "sha256": "1e892055a16eff234a280b9f540a74c4b4c34f70b11660fc1646b5380cf56fa7",
-    "notes": "potage"
+    "version": "1.9.0",
+    "tag": "v1.14.21",
+    "asset": "models-v1.9.0.zip",
+    "sha256": "e9d63af868d573dfae565e8bb8bc37b830988a35e69e7ff97f2c2cd97e603cc9",
+    "notes": "JA"
   }
 }
