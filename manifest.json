@@ -1,28 +1,28 @@
 {
   "app": {
-    "version": "1.14.23",
-    "tag": "v1.14.23",
-    "asset": "Fabaesto.Setup.1.14.23.exe",
-    "sha256": "448055182ac834512edbf8d5bd13715a1aa631bdf47e34cb5adcfa0e5baa6259",
-    "notes": "Putain d'icônes"
+    "version": "1.14.24",
+    "tag": "v1.14.24",
+    "asset": "Fabaesto.Setup.1.14.24.exe",
+    "sha256": "601d7231a0959f179ade440f5fe3b05b3c2ea05ade1be901a4aa14b6659dc68a",
+    "notes": "non, t'es insupportable"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.14.23",
+    "tag": "v1.14.24",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06",
     "notes": "26/10 MAJ"
   },
   "themeThumbs": {
     "version": "2.1.0",
-    "tag": "v1.14.23",
+    "tag": "v1.14.24",
     "asset": "thumbs-v2.1.0.zip",
     "sha256": "af3f86f84fbc7ac9606fdb04a1b17d28768f801f97ca0d7013bbeb3000b33feb",
     "notes": "Maj jaaj"
   },
   "partModels": {
     "version": "1.10.0",
-    "tag": "v1.14.23",
+    "tag": "v1.14.24",
     "asset": "models-v1.10.0.zip",
     "sha256": "42b013c8ce111fb09ef8738a3c07471fe12c8d9d4a4858146590ad63735ae291",
     "notes": "8 minutes c'est précis."
