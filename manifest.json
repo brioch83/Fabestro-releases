@@ -1,21 +1,21 @@
 {
   "app": {
-    "version": "1.14.36",
-    "tag": "v1.14.36",
-    "asset": "Fabaesto.Setup.1.14.36.exe",
-    "sha256": "bec00c601370f1f549f10b7760a6314c7596a40e3a402b5c4c54fd6f475335fa",
-    "notes": "17/11 2"
+    "version": "1.14.37",
+    "tag": "v1.14.37",
+    "asset": "Fabaesto.Setup.1.14.37.exe",
+    "sha256": "7f72ac77fe3e98474de62fa440d211171cfb59b1dcae5e0cb841fa6802516710",
+    "notes": "17/11 3"
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.14.36",
+    "tag": "v1.14.37",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06",
     "notes": "26/10 MAJ"
   },
   "themeThumbs": {
     "version": "2.1.0",
-    "tag": "v1.14.36",
+    "tag": "v1.14.37",
     "asset": "thumbs-v2.1.0.zip",
     "sha256": "af3f86f84fbc7ac9606fdb04a1b17d28768f801f97ca0d7013bbeb3000b33feb",
     "notes": "Maj jaaj"
