@@ -1,23 +1,28 @@
 {
   "app": {
-    "version": "1.15.0",
-    "tag": "v1.15.0",
-    "asset": "Fabaesto.Setup.1.15.0.exe",
-    "sha256": "474569583d33cb9a5b4782809af96f180f312894471bd2e6166fcda63876ae8b",
-    "notes": "Sécurité"
+    "version": "1.15.1",
+    "tag": "v1.15.1",
+    "asset": "Fabaesto.Setup.1.15.1.exe",
+    "sha256": "f4f8ce8a139f27fb509bd5c91a2f7bd5e8d330ca8358a7d59bce87bf913b855a",
+    "notes": "Maj securité",
+    "sha512": "PzRmXDiKOA4eCxQF3U5m2oBlb6ZRlnZbRLA3yHQzhhvhsg8qq2JxGkEZMnEYschELyBM1IlDLuX5LXd1gJZ80Q=="
   },
   "ldraw": {
     "version": "1.0.0",
-    "tag": "v1.15.0",
+    "tag": "v1.15.1",
     "asset": "ldraw-v1.0.0.zip",
     "sha256": "182af992233e20652978246ab0f5f7fff6d2f432bd25a67fff0ed878cbb5cb06",
     "notes": "26/10 MAJ"
   },
   "themeThumbs": {
     "version": "2.1.0",
-    "tag": "v1.15.0",
+    "tag": "v1.15.1",
     "asset": "thumbs-v2.1.0.zip",
     "sha256": "af3f86f84fbc7ac9606fdb04a1b17d28768f801f97ca0d7013bbeb3000b33feb",
     "notes": "Maj jaaj"
+  },
+  "signature": {
+    "kid": "r1",
+    "value": "Wwzv3faPy9UT1Gp2i5/tOtmX3PoO/+vlB77iHCtPm+YT7PZ11MTzkU2UtgK4e0pIVKxiIBy56eWvkEVXAiPSCg=="
   }
 }
